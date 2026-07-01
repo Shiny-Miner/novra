@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "title": "Shadow Emperor",
+        "author": "Novra",
+        "cover": "https://placehold.co/300x450",
+        "rating": 5.0,
+        "genre": "Fantasy",
+        "chapters": 213
+    },
+    {
+        "id": 2,
+        "title": "Magic Academy",
+        "author": "Novra",
+        "cover": "https://placehold.co/300x450",
+        "rating": 4.8,
+        "genre": "Academy",
+        "chapters": 98
+    },
+    {
+        "id": 3,
+        "title": "Dragon King",
+        "author": "Novra",
+        "cover": "https://placehold.co/300x450",
+        "rating": 4.7,
+        "genre": "Action",
+        "chapters": 312
+    }
+]
